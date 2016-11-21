@@ -1,0 +1,18 @@
+{
+  "name": "sync-resolve-deps-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "snyk-resolve-deps": "^1.8.0",
+    "a": "0.0.2"
+  },
+  "devDependencies": {
+    "b": "0.0.1"
+  }
+}
