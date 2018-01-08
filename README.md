@@ -1,5 +1,7 @@
 # problem statement
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/snyk-resolve-deps-dep-type-bug.svg)](https://greenkeeper.io/)
+
 consider this tree:
 
 ```
